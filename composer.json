@@ -1,0 +1,12 @@
+{
+    "name": "faik",
+    "authors": [
+      {
+        "name": "faik",
+        "email": "acmadfaik.alfaruqi@gmail.com"
+      }
+    ],
+    "require": {
+        "php-activerecord/php-activerecord":"dev-master"
+     }
+}
