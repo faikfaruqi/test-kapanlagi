@@ -24,6 +24,9 @@ clone this repo
 import database
 move project to htdocs
 change database config on models/config.php
+install composer
+run composer update
+well done and open it on browser
 ```
 
 ## USAGE EXAMPLE
